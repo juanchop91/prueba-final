@@ -1,2 +1,2 @@
-# prueba-final
-test funcional
+# pruebaqa
+Prueba tecnica QA
